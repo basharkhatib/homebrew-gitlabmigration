@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class GitlabMigration < Formula
+class Gitlabmigration < Formula
   desc ""
   homepage "https://github.com/basharkhatib/gitlabmigration"
   url "https://github.com/basharkhatib/gitlabmigration/archive/refs/tags/0.0.1.zip"
