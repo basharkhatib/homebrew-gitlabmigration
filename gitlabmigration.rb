@@ -3,8 +3,8 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class GitlabMigration < Formula
   desc ""
-  homepage ""
-  url "https://gitlab.aofl.com/bashar.khatib/gitlab-migration/-/archive/0.0.3/gitlab-migration-0.0.3.zip"
+  homepage "https://github.com/basharkhatib/gitlabmigration"
+  url "https://github.com/basharkhatib/gitlabmigration/archive/refs/tags/0.0.1.zip"
   license ""
 
   # depends_on "cmake" => :build
