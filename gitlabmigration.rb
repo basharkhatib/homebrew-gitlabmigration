@@ -10,7 +10,7 @@ class Gitlabmigration < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "migrate"
+    bin.install "migrate.sh"
   end
 
   test do
